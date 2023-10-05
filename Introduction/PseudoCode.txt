@@ -1,3 +1,8 @@
+# Pseudo-code for simulating the quitting model
+# Calculates the average number of games played before quitting
+# N is the number of simulations
+# p is the probability of quitting after each gameplay
+
 N <- 1000
 p <- 0.1
 SumNumPlayed <- 0
